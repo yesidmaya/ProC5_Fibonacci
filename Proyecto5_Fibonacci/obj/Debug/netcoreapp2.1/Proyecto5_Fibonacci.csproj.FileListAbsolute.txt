@@ -1,0 +1,11 @@
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\bin\Debug\netcoreapp2.1\Proyecto5_Fibonacci.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\bin\Debug\netcoreapp2.1\Proyecto5_Fibonacci.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\bin\Debug\netcoreapp2.1\Proyecto5_Fibonacci.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\bin\Debug\netcoreapp2.1\Proyecto5_Fibonacci.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\bin\Debug\netcoreapp2.1\Proyecto5_Fibonacci.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto5\Proyecto5_Fibonacci\obj\Debug\netcoreapp2.1\Proyecto5_Fibonacci.pdb
